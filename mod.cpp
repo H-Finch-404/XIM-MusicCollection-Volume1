@@ -1,0 +1,12 @@
+name = "XIM - Music Collection Volume 1";
+picture = "\XIM_Core\XIMCore.paa";
+actionName = "Steam";
+action = "";
+description = "An addon mod that expands the music used in XIM's dynamic music system. Features mostly dark ambient tracks";
+logo = "\XIM_Core\XIMCore.paa";
+logoOver = "\XIM_Core\XIMCore.paa";
+tooltip = "XIM - MCV_1";
+tooltipOwned = "";
+overview = "An addon mod that expands the music used in XIM's dynamic music system. Features mostly dark ambient tracks";
+author = "Weedse";
+overviewPicture = "\XIM_Core\XIMCore.paa";
