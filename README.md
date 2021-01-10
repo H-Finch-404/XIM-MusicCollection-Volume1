@@ -1,7 +1,10 @@
 # XIM_MusicCollectionVolume1
 
-## FULL LIST OF TRACKS INCLUDED
-### DOWNLOADED FROM JAMENDO (https://www.jamendo.com/)
+This is a collection of royalty free music that expands the music to be used in 
+XIM's dynamic music system (https://github.com/x-00010/XsImmersiveMusic)
+
+
+#### All tracks downloaded from Jamendo (https://www.jamendo.com/)
 #### These tracks are licensed under creative commons.
 #### Please contact us if you  want your track removed, or suspect copyright infringement.
 
