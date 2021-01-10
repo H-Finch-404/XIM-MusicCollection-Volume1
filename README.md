@@ -2,6 +2,8 @@
 
 ## FULL LIST OF TRACKS INCLUDED
 ### DOWNLOADED FROM JAMENDO (https://www.jamendo.com/)
+#### These tracks are licensed under creative commons.
+#### Please contact us if you  want your track removed, or suspect copyright infringement.
 
 + 433 erOs - Spica
 + A.Torres Ruiz - Desde El Mas Alla
